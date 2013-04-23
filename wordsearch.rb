@@ -165,9 +165,6 @@ end
 # we correct for last blank line and extra 1
 maxRow = row - 2
 
-puts "max row = #{maxRow}"
-puts "max col = #{maxCol}"
-
 # find each word
 list.each do |word|
     find_word(search, word, maxRow, maxCol)
