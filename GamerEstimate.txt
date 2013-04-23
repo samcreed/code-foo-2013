@@ -1,0 +1,9 @@
+Question:
+How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.
+
+Answer:
+According to Wikipedia, there are 7.15 million people in the Bay Area.
+
+According to IGN, there are an estimated 211 million Americans who play video games. There are about 314 million people in the USA, which means about 67% of the population plays video games, on average. Since San Francisco is such a hip city, let's round that up to 70%.
+
+That calculates to about 5 million gamers in the San Francisco area. I think this must be a very generous upper bound though, incuding non-traditional gamers certainly. A more realistic percentage is probably closer to 35%, which gives a more reasonable 2.5 million.
